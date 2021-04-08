@@ -680,4 +680,5 @@ function datten(){
     let m2 = Number(document.getElementById("birthday").value[6]);
     let d1 = Number(document.getElementById("birthday").value[8]);
     let d2 = Number(document.getElementById("birthday").value[9]);
+    console.log(birthday)
 }
